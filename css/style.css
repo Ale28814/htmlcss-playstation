@@ -1,0 +1,57 @@
+
+/*UTILITIES*/
+.bk{
+    color: black;
+}
+
+
+/*BLACK_BAR*/
+
+header{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.black-bar{
+    background-color: black;
+}
+
+.logo{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-right: 8px;
+}
+
+.logo .box{
+    width: 80px;
+}
+
+/*NAVBAR*/
+
+.nav-link img{
+    width: 25px;
+}
+
+.butn{
+    color: white;
+    background-color: #363636;
+    margin: 4px;
+    border-radius: 10px;
+}
+
+/*JUMBO*/
+.returnal{
+    width: 100%;
+}
+
+.returnal img{
+    width: 100%;
+}
+
+.boxs img{
+    width: 200px;
+    border-radius: 14px;
+}
+
+
+
