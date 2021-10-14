@@ -12,6 +12,10 @@
     text-align: center;
 }
 
+.higher{
+    height: 400px;
+}
+
 
 /*BLACK_BAR*/
 
@@ -95,6 +99,25 @@ header{
     color: white;
 }
 
+/*PS PLUS*/
 
+.ps-plus{
+    background-color: #bebcbb;
+    width: 100%;
+}
 
+.plus{
+    width: 350px;
+}
 
+/*PS NOW*/
+
+.now{
+    background-color: #1e2546;
+    color: white;
+}
+
+/*SOCIAL*/
+.social img{
+    height: 200px;
+}
