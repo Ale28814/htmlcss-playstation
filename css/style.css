@@ -119,5 +119,33 @@ header{
 
 /*SOCIAL*/
 .social img{
-    height: 200px;
+    height: 180px;
+}
+
+/*FOOTER*/
+
+footer{
+    background-color: #00439c;
+    color: white;
+}
+.sie-logo{
+    width: 150px;
+}
+
+.box-list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.net ul li{
+    list-style: none;
+}
+
+.ps-foot{
+    width: 100px;
+}
+
+.globe{
+    width: 20px;
 }
